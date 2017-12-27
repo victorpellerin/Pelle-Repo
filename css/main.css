@@ -1,0 +1,45 @@
+body {
+  background-color: rgb(244, 248, 249);
+  font-family: Helvetica;
+  color: rgb (0, 0, 0);
+
+}
+#main-container {
+  background: rgb(255, 255, 255);
+  border: 2px solid rgb(255, 232, 237);
+  margin: 20px;
+  padding: 30px;
+  height: 200px;
+  width: 500px;
+  border-radius: 0.5em;
+}
+
+#header {
+  background: rgb(244, 248, 249);
+  padding: 0px;
+  height: 30%;
+}
+
+#profile-picture {
+  height: 100%;
+  width: 25%;
+  float: left;
+}
+
+#user-name {
+  height: 100%;
+  width: auto;
+  float: left;
+}
+
+#follow-button {
+  height: 100%;
+  width: 25%;
+  float: right;
+}
+
+#footer {
+  position: bottom;
+  color: rgb(105, 120, 130);
+  height: 50px;
+}
